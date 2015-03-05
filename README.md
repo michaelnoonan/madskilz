@@ -1,2 +1,1 @@
-# madskilz
-This repository has moved
+# This repo has moved to https://github.com/readify/madskillz
